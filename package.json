@@ -1,0 +1,25 @@
+{
+  "name": "18-nosql",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.7.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edpris10/social-media.git"
+  },
+  "bugs": {
+    "url": "https://github.com/edpris10/social-media/issues"
+  },
+  "homepage": "https://github.com/edpris10/social-media#readme"
+}
