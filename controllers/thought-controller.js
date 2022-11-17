@@ -1,4 +1,4 @@
-const { Comment, thought } = require('../models/Thought');
+const { Comment, thought } = require('../models/thought');
 
 const commentController = {
   // add comment to thought

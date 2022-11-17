@@ -13,7 +13,7 @@ const usernameSchema = new Schema(
       required: true
     },
     thoughts: {
-
+      
     },
     friends: {
 
